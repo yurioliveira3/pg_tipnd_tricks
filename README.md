@@ -32,3 +32,6 @@ It provides a SQL scripts to increase the performance and improve daily deliveri
 
 - terminate_process.sql
   - Kill process with PID number.
+
+- pg_activity.sql
+  - Get activity of database.
