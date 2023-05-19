@@ -49,3 +49,10 @@ It provides a SQL scripts to increase the performance and improve daily deliveri
   
 - \c database 
   - Change database
+
+# PGConfig
+
+- https://www.pgconfig.org/ 
+  - Is a tool that suggests configurations for PG, based on application profiles, is lika a "initial tuning", configuring the variables: 
+    - CPU Numbers, Memory, Max Connections and PG Version
+
