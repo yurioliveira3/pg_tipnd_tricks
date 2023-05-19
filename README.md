@@ -35,3 +35,17 @@ It provides a SQL scripts to increase the performance and improve daily deliveri
 
 - pg_activity.sql
   - Get activity of database.
+
+# Basic psql Commands 
+
+- \d table_name  
+  - Table details
+    
+- \d+ table_name 
+  - More details of table, ddl...
+
+- \l+ 
+  - Database and size of relation
+  
+- \c database 
+  - Change database
