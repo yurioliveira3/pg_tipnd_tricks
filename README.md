@@ -39,6 +39,9 @@ It provides a SQL scripts to increase the performance and improve daily deliveri
 - get_number.sql
   - Get number of a field.
 
+- tx_id_format.sql
+  - Format tx id. 
+
 # Basic psql Commands 
 
 - \d table_name  
