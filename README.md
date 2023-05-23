@@ -35,6 +35,9 @@ It provides a SQL scripts to increase the performance and improve daily deliveri
 
 - pg_activity.sql
   - Get activity of database.
+  
+- get_number.sql
+  - Get number of a field.
 
 # Basic psql Commands 
 
