@@ -42,6 +42,9 @@ It provides a SQL scripts to increase the performance and improve daily deliveri
 - tx_id_format.sql
   - Format tx id. 
 
+- role_attributes.sql
+  - Print role_name and role_role_attributes of DB.
+
 # Basic psql Commands 
 
 - \d table_name  
