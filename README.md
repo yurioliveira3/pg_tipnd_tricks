@@ -44,6 +44,9 @@ It provides a SQL scripts to increase the performance and improve daily deliveri
 
 - role_attributes.sql
   - Print role_name and role_role_attributes of DB.
+ 
+- date_table.sql
+  - Create a date table  
 
 # Basic psql Commands 
 
